@@ -2,7 +2,7 @@ import { create } from "zustand";
 import Web3 from "web3";
 import Swal from "sweetalert2";
 import UserRegistryABI from './Contract_ABI/UserRegistry.json';
-import PortFolioManagerABI from './Contract_ABI/PortfolioManager.json';
+import PortFolioManagerABI from './Contract_ABI/PortFolioManager.json';
 import OceanQueryUpgradeableABI from './Contract_ABI/OceanQueryUpgradeable.json';
 import OceanViewABI from './Contract_ABI/OceanView.json';
 import SlabManagerABI from './Contract_ABI/SlabManager.json';
